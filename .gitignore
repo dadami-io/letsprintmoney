@@ -1,3 +1,4 @@
 .idea/
-test/tmp/*
+test/tmp/*.*
 test/*.csv
+test/.ipynb_checkpoints/*
